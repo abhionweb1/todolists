@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar{
+    height: 96px;
+    width: 100%;
+    background-color: white;
+    box-shadow: 1px 2px 134px rgba(0, 0, 0, 0.368) ;
+    
+}
+/*Adding css to heading*/
+.ctask{
+    color: black;
+    opacity: 100%;
+}
+.clist{
+    color: #00A5EC;
+    margin-left: 7px;
+}
+.ctaskslist{
+    padding: 23px 1033px 22px 196px;
+    height: 49px;
+    font: normal normal bold 40px/49px Inter;
+  
+}
+
+    /* Add css to addtext div */
+    .textadd{
+      display: flex;
+    padding-right: 140px;
+    
+    
+    }
+    /* Add css to addtext */
+    .addnew{
+    display: flex;
+    margin-top: 36px;
+    margin-left: 10px;
+    font-size: 26px;
+    
+    }
+    /* Add css to plus sign*/
+    .plus{
+        display: flex;
+        margin-left: 20px;
+        margin-top: 13px;
+        font-weight: 900;
+        justify-content: center;
+    }
+    /* Add css to plus sign */
+.plussign{
+    display: flex;
+    background-color: #00A5EC;
+    height: 50px;
+    width: 50px;
+    border-radius: 32px;
+    margin-left: 800px;
+    margin-top: 28px;
+    text-align: center;
+    color: white;
+}
+/* Add css after navigation bar */
+.afternavigationbar{
+width: 100%;
+height: 150px;
+background-color:#7B7B7B29;
+}
+
+.leftvarrow{
+    display: flex;
+    height: 35px;
+    width: 35px;
+    background-color: #424242;
+    opacity: 100%;
+    margin-left: 344px;
+    color: white;
+    border-radius: 17px;
+   
+
+}
+.back-btn{
+    display: flex;
+    width: 46px;
+    height: 24px;
+    margin-left: 389px;
+    
+}
+.arrow{
+    display: flex;
+    text-align: center;
+    padding: 7px;
+    margin-top: 26px;
+    margin-left: 367px;
+}
+.sec{
+   color: #424242;
+   opacity: 100%;
+   margin-left: 433px;
+   font-size: 26px;
+   text-decoration: none;
+
+}
+.sec2{
+    color: #424242;
+    opacity: 100%;
+    margin-left: 313px;
+    font-size: 28px;
+    text-decoration: none;
+    font-weight: 500;
+   
+ }
+ .location{
+    margin-top: 26px;
+    
+ }
+
+ .mbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 85px;
+ }
+ .container1{
+   
+    width: 500px;
+    height: 338px;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 13px;
+ 
+ }
+ /* Add css to card text*/
+.carttext{
+    color: #00A5EC;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 18px;
+    
+
+}
+/* Add css to card seprator */
+.card-heading-seprater{
+opacity: 0.2;
+margin-bottom: 20px;
+margin-top: 15px;
+}
+
+/* Add css to checkbox */
+.tickcheck1{
+    background-color: #C2C2C2;
+    height: 17.51px;
+    width: 17.51px;
+    color: white;
+    margin-left: 40px;
+    margin-bottom: 45px;
+}
+
+/* Add css to uncheckbox */
+
+.unchecked{
+    text-decoration: line-through 1.5px;
+    font-size: 21px;
+    color: #C2C2C2;
+    margin-left: 11px;
+    margin-bottom: 1px;
+
+}
+/* Add css to second box */
+.tickcheck2{
+    background-color:#F7F7F7;
+    border-color: #EDEDED;
+    color: #F7F7F7;
+    opacity: 100%;
+    height: 30px;
+    width: 30px;
+    margin-left: 39px;
+    
+}
+/* Add css to second unchecked  box */
+.unchecked2{
+    margin-left: 20px;
+    font-size: 20px;
+ 
+   
+}

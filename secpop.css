@@ -1,0 +1,65 @@
+.popup{
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+}
+.container{
+    display: flex;
+    
+}
+.box1{
+    position: absolute;
+    height: 250px;
+    width: 500px;
+    border: 1px solid lightgrey;
+    background-color: white;
+    top: 30%;
+    left: 35%;
+
+}
+.ntext{
+    margin-left: 20px;
+}
+.textarea{
+    resize: none;
+    width: 450px;
+ 
+}
+.popbutton{
+    background-color: #00A5EC;
+    height: 48px;
+    width: 180px;
+    margin-left: 300px;
+    margin-top: 8px;
+    border-radius: 14px;
+    color: white;
+    transition: transform 1s;
+}
+.popbutton:active{
+    transform: scale(2,0.5);
+}
+
+.carttext3{
+    position: relative;
+    color: #00A5EC;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 26px;
+    left: 2px;
+    
+
+
+}
+.head{
+    height: 56px;
+}
+.seprator{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    opacity: 0.5;
+}
+.linkpop{
+    text-decoration: none;
+    color: black;
+    margin-left: 292px;
+    opacity: 0.5;
+}
